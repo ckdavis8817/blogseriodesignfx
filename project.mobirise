@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AMP Blog Serio Design FX",
-    "currentPage": "index.html",
+    "currentPage": "thedayvideostoodstill.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -2547,7 +2547,7 @@
             }
           },
           "_name": "content4",
-          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" mbr-text>\n            Social media marketing's use of infrographics brought video to a stand still but guess what?</div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content4 mbr-section article\" plugins=\"amp-main\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-text align-center mbr-fonts-style mbr-light\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-text\" mbr-text>\n            Social media marketing's use of infographics brought video to a stand still but guess what?</div>\n    </div>\n</section>",
           "_cid": "qOB5pf9BMl",
           "_anchor": "content4-1f",
           "_protectedParams": [],
